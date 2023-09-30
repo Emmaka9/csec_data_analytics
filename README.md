@@ -14,10 +14,12 @@
    python -m venv venv
    ```
    ii. Activate virtual environment:
-   ```Mac
+   Mac/Unix/Linux:
+   ```
    source venv/bin/activate 
    ```
-   ```Windows:
+   Windows:
+   ```
    bin/Scripts/activate
    ```
    iii. Install the required packages:
