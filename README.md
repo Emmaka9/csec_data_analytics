@@ -9,23 +9,23 @@
 
    Alternatively, you can manually set up the environment by executing the following commands:
 
-      i. Create virtual environment:
+      - Create virtual environment:
    ```commandline
    python -m venv venv
    ```
-   ii. Activate virtual environment:
+   - Activate virtual environment:
    
-   Mac/Unix/Linux:
+   *Mac/Unix/Linux:*
    
    ```
    source venv/bin/activate 
    ```
-   Windows:
+   *Windows:*
    
    ```
    bin/Scripts/activate
    ```
-   iii. Install the required packages:
+   - Install the required packages:
    ```
    python -m pip install -r requirements.txt # installed required packages.
    ```
