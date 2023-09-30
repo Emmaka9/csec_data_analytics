@@ -9,7 +9,7 @@
 
    Alternatively, you can manually set up the environment by executing the following commands:
 
-   ```commandline
+   ```
    python -m venv venv # Create virtual environment
    source venv/bin/activate # activate
    python -m pip install -r requirements.txt # installed required packages.
