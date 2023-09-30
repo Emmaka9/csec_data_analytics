@@ -15,10 +15,12 @@
    ```
    ii. Activate virtual environment:
    Mac/Unix/Linux:
+   
    ```
    source venv/bin/activate 
    ```
    Windows:
+   
    ```
    bin/Scripts/activate
    ```
