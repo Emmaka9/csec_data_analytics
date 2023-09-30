@@ -13,7 +13,8 @@
    ```commandline
    python -m venv venv
    ```
-   ii. Activate virtual environment:<br>
+   ii. Activate virtual environment:\\
+   
    Mac/Unix/Linux:
    
    ```
