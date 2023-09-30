@@ -10,11 +10,12 @@
    Alternatively, you can manually set up the environment by executing the following commands:
 
    ```commandline
-   python -m venv venv
-   python -m pip install -r requirements.txt
+   python -m venv venv # Create virtual environment
+   source venv/bin/activate # activate
+   python -m pip install -r requirements.txt # installed required packages.
    ```
-   To activate virtual envronment: `source venv/bin/activate`
-   To deactivate venv: `venv`
+   To activate virtual envronment: 
+   To deactivate venv: `deactivate`
 
 2. **Enable Django Support**
 
